@@ -1,0 +1,19 @@
+.my-first-div{
+    font-size: 50px;
+    color:#ee82ee70;
+
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    margin: 5px;
+    padding: 8px;
+    text-decoration: line-through;
+    text-align: right;
+    cursor: grab;
+
+}
+.my-first-div:active{
+    cursor: grabbing ;
+    background-color: black;
+    color: blueviolet;
+}

@@ -1,0 +1,58 @@
+.div{
+    
+    font-size: 16px;
+    color: rgb(18, 18, 3);
+    border-style: solid;
+    border-top-right-radius:10px ;
+    border-top-left-radius:10px ;
+    border-width: 2px;
+    border-color: green;
+    position: absolute;
+    bottom: 50%;
+    right: 70%;
+
+}
+
+.border1 {
+   
+        border-style: solid;
+        border-top-right-radius:40px ;
+        border-width: 2px;
+        border-color: orange;
+        max-width: 3cm;
+       
+    
+    
+    
+}
+.border4{
+    border-style: solid;
+    border-bottom-left-radius:50px ;
+    border-bottom-right-radius:50px ;
+    border-width: 2px;
+    border-color: green;
+    max-width: 3cm;
+
+}
+.border2 {
+    border-style: solid;
+    border-top-left-radius:50px ;
+    border-bottom-right-radius:50px ;
+    border-width: 2px;
+    border-color: red;
+    max-width: 3cm;
+
+}
+
+.border3 {
+    border-style: solid;
+    border-top-left-radius:50px ;
+    border-bottom-right-radius:50px ;
+    border-top-right-radius:50px ;
+    border-bottom-left-radius:50px ;
+    border-width: 1px;
+    border-color: black;
+    background-color: yellow;
+    max-width: 3cm;
+
+}
