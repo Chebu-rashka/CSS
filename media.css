@@ -1,0 +1,26 @@
+.most-smart-phones{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+font-size: 50px;
+background-color: bisque;
+color:green;
+}
+
+@media screen and (min-width: 481px) and (max-width:767px){
+    .most-smart-phones{
+        color:orange;
+        font-size: 50px;
+    }
+    .larger-screen{
+        display: none;
+    }
+    
+}
+@media screen and (min-width: 1281px) {
+    .most-smart-phones{
+        color: purple;
+        font-size: 50px;
+    }
+}

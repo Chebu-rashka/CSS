@@ -1,0 +1,32 @@
+.nav-bar{
+    display:flex;
+    font-size: 16px;
+    border-style: solid;
+    border-color: #84cdf6;;
+    background-color:#84cdf6;
+    justify-content: space-between;
+    padding: 0px 10px;
+   
+
+    
+}
+.nav-bar-item{
+
+    color: white;
+    padding: 5px 15px;
+    align-content: center;
+    list-style-type: none;
+    align-self: center;
+}
+.nav-bar-menu{
+
+    display:flex;
+    color: white;
+    padding: 0px 20px;
+    justify-content: flex-start;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
