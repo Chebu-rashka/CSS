@@ -1,0 +1,16 @@
+.flex-container{
+    
+    display: flex;
+    justify-content:center;
+    height: 200px;
+    width: 350px;
+   
+}
+.flex-item1{
+    border: 1px solid violet;
+    border-radius: 10px;
+    padding: 5px 15px;
+    align-self:center;
+    align-items: center;
+   
+}
