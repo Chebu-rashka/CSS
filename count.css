@@ -1,0 +1,19 @@
+.increment{
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.decrement{
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#screen{
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: aquamarine;
+}
